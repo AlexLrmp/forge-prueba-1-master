@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pruebamod1:bloque_rubi"
+    }
+  ],
+  "result": {
+    "item": "pruebamod1:rubi",
+    "count": 9
+  }
+}

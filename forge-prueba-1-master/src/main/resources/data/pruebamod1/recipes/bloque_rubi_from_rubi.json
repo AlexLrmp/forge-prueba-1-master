@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "pruebamod1:rubi"
+    }
+  },
+  "result": {
+    "item": "pruebamod1:bloque_rubi"
+  }
+}

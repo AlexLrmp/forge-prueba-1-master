@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 1,
+  "group": "lingote_plata",
+  "ingredient": {
+    "item": "pruebamod1:plata_bruto"
+  },
+  "result": "pruebamod1:lingote_plata"
+}

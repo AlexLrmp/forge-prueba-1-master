@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "lingote_plata",
+  "ingredient": {
+    "item": "pruebamod1:bloque_plata_crudo"
+  },
+  "result": "pruebamod1:lingote_plata"
+}

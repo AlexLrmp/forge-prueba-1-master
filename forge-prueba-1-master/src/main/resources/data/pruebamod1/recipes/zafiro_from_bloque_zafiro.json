@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "pruebamod1:bloque_zafiro"
+    }
+  ],
+  "result": {
+    "item": "pruebamod1:zafiro",
+    "count": 9
+  }
+}

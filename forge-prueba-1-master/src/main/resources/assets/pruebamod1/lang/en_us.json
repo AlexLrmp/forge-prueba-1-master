@@ -1,0 +1,17 @@
+{
+  "item.pruebamod1.zafiro" : "Zafiro",
+  "item.pruebamod1.zafiro_bruto" : "Zafiro en Bruto",
+  "item.pruebamod1.rubi": "Rubí",
+  "item.pruebamod1.plata_bruto": "Plata en bruto",
+  "item.pruebamod1.lingote_plata": "Lingote de plata",
+
+  "item.pruebamos1.peridotita": "Peridotita",
+
+  "block.pruebamod1.bloque_zafiro": "Bloque de Zafiro",
+  "block.pruebamod1.bloque_rubi": "Bloque de Rubí",
+  "block.pruebamod1.bloque_rubi_crudo": "Bloque de rubí crudo",
+  "block.pruebamod1.bloque_plata": "Bloque de plata",
+  "block.pruebamod1.bloque_plata_crudo": "Bloque de plata crudo",
+
+  "creativetab.mineral_tab" : "Material de Prueba"
+}
